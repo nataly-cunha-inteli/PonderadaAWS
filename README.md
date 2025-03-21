@@ -10,8 +10,6 @@ Professor: <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jefferson de
 
 &ensp;[Link de demonstração](https://drive.google.com/file/d/1HxgJr1MkHpBUps9rXXfEbg4BDkuTbNIc/view?usp=sharing)
 
-&ensp;[Link da aplicação em deploy](http://ec2-54-209-7-130.compute-1.amazonaws.com/SamplePage.php)
-
 ## ⭐ Estrutura do projeto em nuvem
 
 ```
